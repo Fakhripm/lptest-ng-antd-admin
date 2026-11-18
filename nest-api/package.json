@@ -94,5 +94,8 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
+  },
+  "overrides": {
+    "body-parser": "2.4.0"
   }
 }
