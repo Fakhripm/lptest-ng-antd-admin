@@ -96,6 +96,7 @@
     "testEnvironment": "node"
   },
   "overrides": {
+    "jws": "3.2.3",
     "body-parser": "2.4.0"
   }
 }
